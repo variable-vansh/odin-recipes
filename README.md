@@ -1,1 +1,1 @@
-# odin-recipes
+This is to demonstrate basic HTML codes I've learnt

@@ -1,1 +1,1 @@
-This is to demonstrate basic HTML codes I've learnt
+This is to demonstrate basic HTML
